@@ -1,0 +1,48 @@
+body{
+  height:700px;
+  }
+  .col-md-3{
+
+  background-position: center center;
+  height:710px;
+  color:white;
+  padding: 2rem 6rem 0 7rem;
+  background-color: black;
+
+}
+.col-md{
+  background-color: white;
+  padding:7rem 15rem 0 15rem;
+}
+i{
+
+  color:#ffc40c;
+}
+h1{
+  margin-bottom: 5rem;
+  font-family: 'Lobster Two',cursive;
+  font-size: 400%
+}
+h4{
+  padding-bottom:10px;
+  font-family: 'Lobster Two',cursive;
+
+}
+.goals{
+  margin-bottom: 5rem;
+  font-family: 'Raleway',sans-serif;
+  font-weight: bold;
+}
+p{
+  font-size: 15px;
+}
+.less-opaque{
+
+  width:16rem;
+  height:475px;
+  position: absolute;
+  left:1000px;
+  top:230px;
+  background-color: #bfc1c2;
+  opacity: 0.4;
+}

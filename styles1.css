@@ -1,0 +1,70 @@
+body{
+  width:1600px;
+  height:900px;
+  background-image: url("3547.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:#ffc40c;
+  font-family: 'Raleway',sans-serif;
+}
+
+.navbar{
+  margin: 5rem 5rem 5rem 4rem;
+  font-size: 14px;
+  color:#ffc40c;
+  font-family: 'Raleway',sans-serif;
+}
+
+.navbar-brand{
+  padding-right:25rem;
+  font-size: 14px;
+
+}
+
+.search-icon{
+  padding-left: 25rem;
+
+}
+a{
+  color:#ffc40c;
+}
+a:hover{
+  color:white;
+}
+
+.main-body{
+  margin:8rem;
+  font-size: 14px;
+}
+h1{
+  font-family: 'Lobster Two',cursive;
+  font-size: 400%;
+  margin-top: 2rem;
+}
+
+.prices{
+  margin-top: 6rem;
+  margin-bottom: 4rem;
+  padding-left: 10px;
+  border-left: 2px solid white;
+  font-size:1rem;
+  font-family: 'Raleway',sans-serif;
+}
+.less-opaque{
+  position: absolute;
+  top: 17rem;
+  left:  74px;
+
+  color:gray;
+  opacity: 0.2;
+  font-size: 550%;
+}
+.btn{
+  margin:8px;
+  font-size: 14px;
+  color:white;
+  }
+.enhanced{
+  color:white;
+}
